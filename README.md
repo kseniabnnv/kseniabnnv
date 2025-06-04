@@ -9,9 +9,9 @@
 </ul>
 
 
-<h3>Database Development Intern - Amorphyx Inc.</h3> 
+<h3>Database Development Intern - <a href="https://www.amorphyx.com/">Amorphyx Inc.</a></h3> 
 <ul>
-	<li>Contributed to a project migrating semiconductor data from Google Sheets into a cloud-based PostgreSQL database hosted on Amazon RDS.</li>
+    <li>Contributed to a project migrating semiconductor data from Google Sheets into a cloud-based PostgreSQL database hosted on Amazon RDS.</li>
     <li>Designed an ERD and database dictionary to model relationships, enforce integrity constraints, and minimize redundancy for fabrication and testing data.</li>
     <li>Developed automated scripts with Google Apps Script to retrieve, map, and organize records for database import</li>
 </ul>
